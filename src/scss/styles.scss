@@ -24,3 +24,31 @@
 
 // Custom styles:
 
+.averia-libre-bold {
+  font-family: "Averia Libre", system-ui;
+  font-weight: 700;
+  font-style: bold;
+}
+
+
+.jumbotron {
+  background: url(../img/pirate-ship.jpg) no-repeat center;
+  background-size: cover;
+  padding: 8rem;
+  text-align: center;
+  color: white;
+  font-family: "Averia Libre"
+}
+
+.homepage {
+  margin: 2rem;
+
+  font-family: Helvetica, sans-serif
+}
+
+footer {
+  background-color: teal;
+  color: white;
+  text-align: center;
+  padding: 1rem;
+}
