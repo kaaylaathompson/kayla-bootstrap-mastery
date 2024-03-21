@@ -33,3 +33,6 @@ All edits to HTML, SCSS or images should be done in the `src` folder. DO NOT edi
 ,
     "nav": "^0.0.2"
 ```
+
+Bootstrap Mastery Project by Kayla Thompson
+Due Friday, March 22, 2024
